@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# mac files
+.DS_Store
+
+# tmp files
+tmp/
+
+# build directory
+dist/
+
+# env vars
+.env*
+
+# Local Netlify folder
+.netlify/state.json
+
+# results from database
+src/results.json
